@@ -1,0 +1,1 @@
+char f1(char *s);
